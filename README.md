@@ -1,5 +1,5 @@
 # apna-college-demo
 this is my first git  repository
 <br>
-author - Dharmendra mewada
+author - Dharmendra rajput
 
